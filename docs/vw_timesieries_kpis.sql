@@ -1,4 +1,4 @@
-CREATE OR REPLACE VIEW saas_product.vw_timeseries_kpis AS
+CREATE OR REPLACE VIEW saas_product.vw_timeseries_kpis AS 
 WITH months AS (
     SELECT DISTINCT DATE_FORMAT(signup_date, '%Y-%m') AS month
     FROM saas_product.silver_subscriptions
