@@ -1,4 +1,4 @@
-# 📊 SaaS Product Analytics & Insights — Case Study  
+# 📊 SaaS Product Analytics & Insights — Case Study 
 by **Dhruv Rajpoot**
 
 This case study explores how users sign up, engage, upgrade, or churn in a SaaS product.  
